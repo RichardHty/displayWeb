@@ -20,6 +20,8 @@ h6 {
 h2 {
   font-size: 30px;
   font-weight: 400;
+  color:#fff;
+
 }
 h3 {
   font-size: 28px;
@@ -28,6 +30,8 @@ h3 {
 p {
   font-size: 15px;
   line-height: 28px;
+  font-weight: bold;
+  color:#fff;
 }
 ul {
   padding: 0;
@@ -96,7 +100,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	Slider Start 
 --*/
 #slider {
-  background: url("../img/slider-bg.jpg") no-repeat;
+  background: url("../img/slider-blue.jpg") no-repeat;
   background-size: cover;
   background-attachment: fixed;
   background-position: 10% 0%;
@@ -164,6 +168,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #service {
   text-align: center;
   padding: 90px 0;
+  background-color:rgb(26, 54, 84);
 }
 #service .service-item {
   padding-bottom: 30px;
@@ -230,7 +235,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	Feature Start 
 --*/
 #feature_intro {
-  background: url("../img/student_group.jpg");
+  background: url("../img/student_group_change.jpg");
   background-position: 50% 94px;
   width: 100%;
   display: block;
@@ -239,7 +244,6 @@ font header .navbar-default .navbar-nav li a:hover {
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center center;
-  background-color: #fff;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -251,7 +255,7 @@ font header .navbar-default .navbar-nav li a:hover {
   backface-visibility: hidden;
   padding: 100px 0;
 }
-#feature_try{
+#x-section_bg-image_parallax{
   margin: 0px; 
   padding: 150px 0px;
   background-image: url("../img/student_group.jpg");
