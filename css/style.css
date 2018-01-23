@@ -251,6 +251,24 @@ font header .navbar-default .navbar-nav li a:hover {
   backface-visibility: hidden;
   padding: 100px 0;
 }
+#feature_try{
+  margin: 0px; 
+  padding: 150px 0px;
+  background-image: url("../img/student_group.jpg");
+  background-color: 
+  transparent; 
+  background-position: 50% -50px;
+}
+#x-container_white_max_width{
+  margin: 0px auto;
+  padding: 0px;
+}
+#x-column_x-sm_x-1-2{
+  padding: 0px; 
+  opacity: 1; 
+  transform: translate(0px, 0px); 
+  transition-duration: 750ms;
+}
 #feature_part1 {
   background: url("../img/student_graduate.jpg");
   background-position: 50% 94px;
