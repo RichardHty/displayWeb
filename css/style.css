@@ -104,7 +104,7 @@ font header .navbar-default .navbar-nav li a:hover {
   background-size: cover;
   background-attachment: fixed;
   background-position: 10% 0%;
-  padding: 200px 0 280px 0;
+  padding: 100px 0 180px 0;
   position: relative;
 }
 #slider:before {
@@ -267,7 +267,6 @@ font header .navbar-default .navbar-nav li a:hover {
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center center;
-  background-color: #fff;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -278,20 +277,17 @@ font header .navbar-default .navbar-nav li a:hover {
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   padding: 100px 0;
-  -webkit-transform: translateZ(-999px) ;
-  transform: translateZ(-999px) ;
-  z-index: 3;
+
 }
 #feature_part2 {
-  background: url("../img/student_reading_change3.jpg");
-  background-position: 50% 94px;
+  background: url("../img/student_reading_change4.jpg");
+  background-position: 45% 100px;
   width: 100%;
   display: block;
   position: relative;
   overflow: visible;
   background-repeat: no-repeat;
   background-position: center center;
-  background-color: #fff;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -321,23 +317,7 @@ font header .navbar-default .navbar-nav li a:hover {
   color: #fff;
   padding: 10px 20px;
 }
-#feature_part1 .forefront-element {
-    -webkit-transform: translateZ(999px) ;
-    transform: translateZ(999px) ;
-    z-index: 1;
-  }
 
-#feature_part1 .base-element {
-  -webkit-transform: translateZ(0px);
-  transform: translateZ(0px);
-  z-index: 4;
-}
-
-#feature_part1 .background-element {
-  -webkit-transform: translateZ(-999px) ;
-  transform: translateZ(-999px) ;
-  z-index: 3;
-}
 /*--
 	content Start 
 --*/
